@@ -1,0 +1,15 @@
+# Workflow
+_dev/
+node_modules/
+*.map
+
+# Server
+# ...
+
+# WordPress
+# ...
+
+# Exclude images and binaries
+# images
+# fonts
+# ...
