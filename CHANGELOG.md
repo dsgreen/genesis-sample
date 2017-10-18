@@ -1,8 +1,16 @@
 # Genesis Sample Theme Changelog
 
-## [Unreleased][unreleased]
+## [Unrelased]
+* Fix product gallery bug in WooCommerce 3.0 update
+* Updated responsive menu to 1.1.3
+* Remove menu toggle border
 
-_No changes._
+## [2.3.0] - 2017-01-30
+* Add WooCommerce support to the theme and customizer
+* Add an updated and improved responsive menu script
+* Updated the file structure
+* Updated documentation
+* Updated code standards
 
 ## [2.2.4] - 2016-06-08
 * Reorder font size on breadcrumbs
@@ -24,6 +32,7 @@ _No changes._
 * Set localization
 * Update XML file
 
-[unreleased]: https://github.com/copyblogger/genesis-sample/compare/2.2.4...HEAD
+[Unreleased]: https://github.com/copyblogger/genesis-sample/tree/develop/
+[2.3.0]: https://github.com/copyblogger/genesis-sample/compare/2.2.4...2.3.0
 [2.2.4]: https://github.com/copyblogger/genesis-sample/compare/2.2.3...2.2.4
 [2.2.3]: https://github.com/copyblogger/genesis-sample/compare/014deb3689323b7bbd4ddbfff4f5f9279a38f741...2.2.3
